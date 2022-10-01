@@ -10,4 +10,4 @@
 
 ## ⚠️ Note: "bootcamp" in the title of the page and the positions of the professions were not translated, because it would be strange.
 ## for more challenges go to https://www.frontendmentor.io/home
-## And soon there will be more challenges completed in Brazilian Portuguese.
+## And soon there will be more challenges completed in Brazilian Portuguese.💪
